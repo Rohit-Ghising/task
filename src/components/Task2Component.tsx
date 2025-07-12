@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 import img1 from "../assets/user1.avif";
 import img2 from "../assets/user2.avif";
